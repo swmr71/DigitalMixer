@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ページ-1" id="1rR5yNFkPkjZeM9XWKDB">
-    <mxGraphModel dx="1123" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,18 @@
         </mxCell>
         <mxCell id="m8mJqOSwnHCwy_74enNu-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;labelBackgroundColor=none;" value="5V・GND" vertex="1">
           <mxGeometry height="20" width="50" x="265" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mJqOSwnHCwy_74enNu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;labelBackgroundColor=none;" value="LRCK" vertex="1">
+          <mxGeometry height="160" width="20" x="900" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mJqOSwnHCwy_74enNu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;labelBackgroundColor=none;" value="BCLK" vertex="1">
+          <mxGeometry height="160" width="20" x="920" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mJqOSwnHCwy_74enNu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;labelBackgroundColor=none;" value="MCLK" vertex="1">
+          <mxGeometry height="160" width="20" x="940" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mJqOSwnHCwy_74enNu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="切り替えスイッチ" vertex="1">
+          <mxGeometry height="120" width="30" x="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
